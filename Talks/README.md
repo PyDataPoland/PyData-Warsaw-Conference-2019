@@ -44,6 +44,8 @@ Few shot learning aims at leveraging huge database for training deep neural nets
 ##### Abstract
 Most of the industrial cases we face do not have enough data to allow for a complete end-to-end training of common deep architecture. Furthermore research paper often do not address real test cases. In this context there is a need for easy benchmarking of usual and custom models onto ones particular datasets.  Furthermore best academic performers may not the preferred choice for production applications as simplicity, robustness and explicability are other factor of interest. Thus the need for a modularity in the implementation to be able to mix the best of them to improve practical results.  We will review some recent theoretical development in Few Shot learning and show their corresponding implementation in tf.keras. Finally I will showcase the keras_fsl package with public notebooks and key results on usual benchmarks.
 
+[Slides](https://docs.google.com/presentation/d/12wExXxVqFm6oR3PNf8wvRAmRZKQsYJj1IiIGCd8Kd-4/edit?usp=sharing)
+
 #### [How to structure PySpark application](https://pydata.org/warsaw2019/schedule/presentation/9/how-structure-pyspark-application/) - Przemek Chrabka
 ##### Description
 A lot of the Data Scientists and Engineers don’t come from Software Engineering background and even they have an experience with writing spark code they might luck the knowledge about application structure principals. This talk is designed to help them write better and more readable code.
