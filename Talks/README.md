@@ -136,7 +136,7 @@ We will talk about how Python can be helpful in the machine learning projects on
 ##### Abstract
 We will talk about how Python can be helpful in the machine learning projects. We will consider every step of the process starting with the idea where data- driven predictions can be helpful, through data preparation, data modelling, communication of the results using various visualizations and implementation on production including monitoring of model performance. I will mention various Python libraries that can be of use on each step and consider real use cases to dive deeper into some of the mentioned steps. During the talk I will also mention open source Python library for easy data access that we develop in Fandom.
 
-#### [Learning to rank with the Transformer](https://pydata.org/warsaw2019/schedule/presentation/6/learning-rank-transformer/) - Tomasz Bartczak
+#### [Learning to rank with the Transformer](https://pydata.org/warsaw2019/schedule/presentation/6/learning-rank-transformer/) - Tomasz Bartczak, Radosław Białobrzeski
 ##### Description
 Learning to Rank (LTR) is concerned with optimising the global ordering of a list of items, according to their utility to the users. In this talk, we present the results of ongoing research at Allegro.pl into applying the Transformer architecture known from Neural Machine Translation literature to the LTR setting and introduce allRank, an open-source, Pytorch based framework for LTR.
 ##### Abstract
