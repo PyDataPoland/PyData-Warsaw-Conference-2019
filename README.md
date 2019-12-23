@@ -5,7 +5,8 @@
 * [PyData Warsaw 2019](https://pydata.org/warsaw2019/) event website
 * [@PyDataWarsaw](https://twitter.com/pydatawarsaw) Twitter channel
 * [Meetup website](https://www.meetup.com/Pydata-Warsaw)
-* Video: TO BE POSTED
+* Video: 
+  - [PDWC 2019 Showreel](https://www.youtube.com/watch?v=DTBx_VDYrd0)
 
 ## Slides and materials
 
@@ -68,4 +69,5 @@ Feel invited to Pull Request with link to slides or the project website.
 * AWS Cloud data collecting with microcontrollers and MicroPython - Michal Sulkiewicz
 
 
-Credit to [Pafnucy](https://github.com/pafnucy)
+
+_Credits: [Pafnucy](https://github.com/pafnucy)_
