@@ -66,3 +66,6 @@ Feel invited to Pull Request with link to slides or the project website.
 
 * Straightforward introduction to Deep Learning - Mikołaj Olszewski
 * AWS Cloud data collecting with microcontrollers and MicroPython - Michal Sulkiewicz
+
+
+Credit to [Pafnucy](https://github.com/pafnucy)
