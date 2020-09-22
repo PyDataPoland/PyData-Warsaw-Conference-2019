@@ -1,0 +1,565 @@
+Ticket Type,Check-In Date,IP Location,Attendee Status,What size?,Job Title,gender,genderProbability
+Early Bird - Individual Ticket,,Germany,Attending,Men's Medium,Coder,male,0.98
+Early Bird - Individual Ticket,,"Ibadan, Nigeria",Attending,,Chief Executive Officer,male,0
+Early Bird - Individual Ticket,,"Ibadan, Nigeria",Attending,,Manager,male,0
+Early Bird - Individual Ticket,,"Ibadan, Nigeria",Attending,,Assistant Manager,male,0
+Early Bird - Individual Ticket,,"Ibadan, Nigeria",Attending,,Chief Executive Officer,male,0
+Early Bird - Individual Ticket,,"Ibadan, Nigeria",Attending,,Manager,male,0
+Early Bird - Individual Ticket,,"Ibadan, Nigeria",Attending,,Assistant Manager,male,0
+Early Bird - Individual Ticket,,"Warsaw, Poland",Attending,Men's Large,Data Scientist,male,1
+Early Bird - Individual Ticket,,"Zagreb, Croatia",Attending,Men's Medium,Student,male,0.76
+Early Bird - Individual Ticket,,"Warsaw, Poland",Attending,Men's Medium,Programmer,male,0.99
+Early Bird - Individual Ticket,,"Warsaw, Poland",Attending,Men's XL,-,male,1
+Early Bird - Individual Ticket,,"Gliwice, Poland",Attending,Men's Large,Machine Learning Engineer,male,0
+Early Bird - Corporate Ticket,,"Wrocław, Poland",Attending,Men's Large,Data Scientist,male,1
+Early Bird - Individual Ticket,,"Wandsworth, United Kingdom",Attending,Men's XL,Principal Software Engineer,male,0.84
+Early Bird - Corporate Ticket,,"Poznan, Poland",Attending,Men's Medium,Associate Data Scientist,male,1
+Individual Ticket,,"Bad Honnef, Germany",Attending,,Student,male,0.97
+Individual Ticket,,"Bad Honnef, Germany",Attending,,Masters Student,male,0.97
+Individual Ticket,,"Warsaw, Poland",Attending,Men's XL,Data Analyst,male,1
+Corporate Ticket,,"Furth, Germany",Attending,Men's Large,Data Developer,male,0.99
+Corporate Ticket,,"Warsaw, Poland",Attending,Men's Large,Senior specialist,male,1
+Corporate Ticket,,"Warsaw, Poland",Attending,Men's Medium,Senior specialist,male,0.99
+Corporate Ticket,,"Warsaw, Poland",Attending,Men's Large,Senior specialist,male,1
+Corporate Ticket,,"Warsaw, Poland",Attending,Men's Large,Senior specialist,male,0.99
+Corporate Ticket,,"Krakow, Poland",Attending,Women's Large,Junior Developer,female,0.98
+Corporate Ticket,,"Krakow, Poland",Attending,Men's Medium,Head of User Intelligence,male,0.99
+Corporate Ticket,,"Krakow, Poland",Attending,,Junior Developer,female,0.98
+Corporate Ticket,,"Warsaw, Poland",Attending,Men's Large,asdasdad,male,0.81
+Corporate Ticket,,"Berlin, Germany",Attending,,Fullstack Engineer,female,0.98
+Corporate Ticket,,"Berlin, Germany",Attending,,ROI Controlling & Reporting Specialist,male,1
+Corporate Ticket,,"Berlin, Germany",Attending,,Fullstack Engineer,male,0.99
+Corporate Ticket,,"Berlin, Germany",Attending,,Backend Engineer,male,0.93
+Corporate Ticket,,"Berlin, Germany",Attending,,BI Engineer,male,0.95
+Corporate Ticket,,"Berlin, Germany",Attending,,MicroStrategy Expert,male,1
+Corporate Ticket,,"Berlin, Germany",Attending,,Backend Engineer,male,0
+Corporate Ticket,,"Berlin, Germany",Attending,,Backend Engineer,male,0
+Corporate Ticket,,"Warsaw, Poland",Attending,Men's Large,Junior Data Scientist,male,0.99
+Early Bird - Corporate Ticket,,"Poznan, Poland",Attending,Men's Medium,Senior Data Scientist,male,1
+Corporate Ticket,,"Warsaw, Poland",Attending,Men's Small,Data Scientist,male,0.95
+Corporate Ticket,,"Warsaw, Poland",Attending,Men's Large,Data Scientist,male,0.99
+Corporate Ticket,,Unknown Location,Attending,Men's Medium,Senior IT Professional,male,0.99
+Corporate Ticket,,"Krakow, Poland",Attending,Men's Medium,software developer,male,0.98
+Corporate Ticket,,"Warsaw, Poland",Attending,Men's Small,Data Scientist,male,0.95
+Corporate Ticket,,"Warsaw, Poland",Attending,Men's Large,Data Scientist,male,0.99
+Corporate Ticket,,"Krakow, Poland",Attending,Men's Large,software developer,male,0.98
+Corporate Ticket,,"Krakow, Poland",Attending,Men's Large,software developer,male,0.98
+Early Bird - Corporate Ticket,,United Kingdom,Not Attending,Men's Large,Principal Data Scientist,male,0.9
+Corporate Ticket,,"Berlin, Germany",Attending,,Customer Analyst,male,1
+Individual Ticket,,"Paris, France",Attending,Women's Large,Data Scientists,female,0.98
+Individual Ticket,,"Paris, France",Attending,Men's Large,Data Scientist,male,1
+Corporate Ticket,,"Chorzów, Poland",Attending,Women's Small,DWH Developer,female,0.98
+Individual Ticket,,"Warsaw, Poland",Attending,Men's Large,Student,male,0.99
+Individual Ticket,,Poland,Attending,Women's Small,Owner,female,0.98
+Individual Ticket,,"Warsaw, Poland",Attending,Women's Medium,Managing Director,female,0.98
+Corporate Ticket,,"Warsaw, Poland",Attending,Men's Medium,data engineer,male,1
+Corporate Ticket,,"Warsaw, Poland",Attending,Men's Large,data scientist,male,1
+Individual Ticket,,"Gdańsk, Poland",Attending,Women's Large,Python Programmer,female,0.98
+Corporate Ticket,,"Warsaw, Poland",Attending,Men's Medium,Specialist,male,1
+Corporate Ticket,,"Warsaw, Poland",Attending,Men's Medium,Specialist,male,0.99
+Individual Ticket,,Unknown Location,Attending,Men's Medium,Business,male,0.97
+Corporate Ticket,,"Frankfurt am Main, Germany",Attending,,aaaaaa,male,0.61
+Individual Ticket,,"Lidzbark Warmiński, Poland",Attending,Men's Medium,Data Analyst,male,0
+Individual Ticket,,"Delhi, India",Attending,Men's Medium,Data Scientist,male,0.9
+Individual Ticket,,"Lodz, Poland",Attending,Men's Large,Research Specialist,male,0
+Individual Ticket,,"Krakow, Poland",Attending,Women's Medium,Data Scientist,female,0.98
+Individual Ticket,,"Novi Sad, Serbia",Attending,Men's Medium,Team Lead,male,0.56
+Individual Ticket,,"Warsaw, Poland",Attending,Men's Large,AI Expert,male,0.99
+Individual Ticket,,"Nairobi, Kenya",Attending,,SYSTEMS DEVELOPER,male,0
+Corporate Ticket,,"Warsaw, Poland",Attending,Men's Medium,Individual Specialist,male,1
+Individual Ticket,,"Nairobi, Kenya",Attending,Men's Medium,SYSTEMS DEVELOPER,male,0
+Individual Ticket,,"Warsaw, Poland",Attending,Men's Large,PhD Student,male,0.95
+Individual Ticket,,"Kansas City, MO, United States",Attending,Men's Medium,Data Scientist,male,0.9
+Corporate Ticket,,"Warsaw, Poland",Attending,Women's Small,Analytical Researcher,female,0.98
+Corporate Ticket,,"Warsaw, Poland",Attending,Men's XL,Python Developer,male,1
+Corporate Ticket,,"Warsaw, Poland",Attending,Men's XL,Python Developer,male,1
+Individual Ticket,,"Warsaw, Poland",Attending,Men's Medium,Research Scientist,male,1
+Individual Ticket,,"Cotonou, Benin",Attending,Men's Medium,CEO,male,0.99
+Individual Ticket,,"Wrocław, Poland",Attending,Men's Medium,Data Scientist,male,0.99
+Individual Ticket,,"Delhi, India",Attending,Men's Medium,Data Scientist,male,0.9
+Individual Ticket,,"Warsaw, Poland",Attending,Men's Medium,NLP engineer,male,1
+Individual Ticket,,"Warsaw, Poland",Not Attending,Men's Large,NLP engineer,male,0
+Early Bird - Corporate Ticket,,"Poznan, Poland",Attending,Men's Medium,Senior Data Scientist,male,0
+Corporate Ticket,,Unknown Location,Attending,Women's Medium,IT Professional,female,0.98
+Individual Ticket,,"Warsaw, Poland",Not Attending,Men's XL,Data Analyst,male,1
+Corporate Ticket,,"Lusaka, Zambia",Attending,Men's Large,Director,male,0
+Individual Ticket,,"Lusaka, Zambia",Attending,Men's Large,Director,male,0
+Corporate Ticket,,"Warsaw, Poland",Attending,Men's Medium,Python Developer,male,0
+Individual Ticket,,"Warsaw, Poland",Attending,Men's XL,Post-doc,male,0.99
+Corporate Ticket,,Poland,Attending,Women's Medium,IT Professional,female,0.98
+Individual Ticket,,"Vilnius, Lithuania",Attending,Men's Medium,CEO,male,0
+Individual Ticket,,"Wrocław, Poland",Attending,Men's Medium,Data Scientist,male,0
+Corporate Ticket,,Poland,Attending,Women's Medium,IT Professional,female,0.98
+Individual Ticket,,"Ghent, Belgium",Attending,,Backend Engineer,male,1
+Individual Ticket,,"Warsaw, Poland",Attending,Men's Medium,-,male,0.99
+Corporate Ticket,,"Kaunas, Lithuania",Attending,Men's Large,Data Scientist,male,0.99
+Corporate Ticket,,"Kaunas, Lithuania",Attending,Women's Medium,Junior Data Scientist,female,0.98
+Corporate Ticket,,"Kaunas, Lithuania",Attending,Women's Medium,Junior Data Analyst,female,0
+Corporate Ticket,,"Kaunas, Lithuania",Attending,Men's Large,Data Scientist,male,0.97
+Individual Ticket,,"Warsaw, Poland",Attending,Men's Medium,Python Developer,male,0.99
+Individual Ticket,,"Warsaw, Poland",Attending,Men's Medium,NLP engineer,male,1
+Individual Ticket,,Unknown Location,Attending,Women's Large,na,female,0.98
+Early Bird - Individual Ticket,,"Warsaw, Poland",Not Attending,Men's Medium,Senior Software Developer,male,1
+Corporate Ticket,,"Warsaw, Poland",Attending,Men's Medium,Junior Data Scientist,male,1
+Corporate Ticket,,"Warsaw, Poland",Attending,Men's Medium,Senior IT Manager,male,1
+Individual Ticket,,Unknown Location,Attending,,data scientis,male,1
+Corporate Ticket,,"Frankfurt am Main, Germany",Attending,Men's Large,Data Analyst,female,0.98
+Corporate Ticket,,"Frankfurt am Main, Germany",Attending,Men's Large,Data Analyst,female,0.98
+Corporate Ticket,,"Poznan, Poland",Attending,Women's Large,Data Scientist Intern,female,0.97
+Corporate Ticket,,"Katowice, Poland",Attending,Men's Medium,Data Scientist,male,1
+Corporate Ticket,,"Katowice, Poland",Attending,Men's XL,Data Scientist,male,1
+Corporate Ticket,,"Katowice, Poland",Attending,Women's Medium,Data Scientist,female,0.98
+Corporate Ticket,,"Katowice, Poland",Attending,Men's Large,Data Scientist,male,1
+Individual Ticket,,"Krakow, Poland",Attending,Men's XL,Data Engineer,male,1
+Corporate Ticket,,"Chelsea, United Kingdom",Attending,Men's Medium,Machine Learning Engineer,male,1
+Early Bird - Individual Ticket,,"Zagreb, Croatia",Not Attending,Men's Medium,Student,male,0.76
+Final Call - Individual Ticket,,"Łódź, Poland",Attending,Men's XL,Phd Student,male,0.99
+Final Call - Individual Ticket,,"Poznan, Poland",Attending,Women's Medium,Marketing Coordinator,female,0.98
+"Individual Tutorial Ticket - 14.12, Saturday",,"Frankfurt am Main, Germany",Attending,Men's Large,Credit Risk Analytics,male,0.99
+"Corporate Tutorial Ticket - Track 2, 14.12, Saturday",,"Poznan, Poland",Attending,Men's Large,Principal Data Scientist,male,1
+Final Call - Corporate,,"London, United Kingdom",Attending,Women's Medium,BI Developers TL,female,0.98
+Final Call - Corporate,,"London, United Kingdom",Attending,Women's Medium,BI developers TL,female,0.98
+Final Call - Corporate,,United States,Attending,Men's Large,Specialist,male,1
+Final Call - Corporate,,United States,Attending,Men's Large,Specialist,male,0.99
+Final Call - Individual Ticket,,"Warsaw, Poland",Attending,Men's Large,Data Management Specialist,male,0.99
+Individual Ticket,,"London, United Kingdom",Not Attending,Women's Medium,Associate Risk Officer,female,0.97
+Final Call - Corporate,,"Warsaw, Poland",Attending,Men's Medium,AAE,male,1
+Final Call - Individual Ticket,,"Zurich, Switzerland",Attending,Men's Small,Big Data Engineer,male,0.99
+Final Call - Corporate,,"Warsaw, Poland",Attending,Men's Medium,data scientist,male,1
+Individual Ticket,,"Binningen, Switzerland",Not Attending,Men's Small,General Manager,male,0.98
+Sages tickets,,"Warsaw, Poland",Attending,Women's Medium,KAM,female,0.98
+Individual Ticket,,"Warsaw, Poland",Not Attending,,Data Scientist / Founder,male,0.99
+Amazon Corporate ticekt,,"Ashburn, VA, United States",Attending,Men's XL,AWS Consultant,male,1
+Media,,Poland,Attending,,PyData Poland,male,0.99
+"Individual Tutorial Ticket - 14.12, Saturday",,United Kingdom,Attending,Men's XL,developer,male,0.99
+Media,,"Łódź, Poland",Attending,Men's Large,Operator2,male,1
+"Corporate Tutorial Ticket - 14.12, Saturday",,"Warsaw, Poland",Attending,Women's Medium,Data Scientist,female,0
+Media,,"Warsaw, Poland",Attending,Men's Medium,redaktor,male,0.99
+Early Bird - Corporate Ticket,"December 12, 2019 8:02 AM","Warsaw, Poland",Checked In,Men's Large,Software Developer,male,0.95
+Corporate Ticket,"December 12, 2019 8:03 AM","Warsaw, Poland",Checked In,Men's XL,Python Engineer,male,1
+Corporate Ticket,"December 12, 2019 8:04 AM","London, United Kingdom",Checked In,Men's Large,Associate data scientist,male,1
+Early Bird - Corporate Ticket,"December 12, 2019 8:16 AM","Warsaw, Poland",Checked In,Men's Medium,Software Developer,male,0.98
+ING tickets,"December 12, 2019 8:23 AM","Katowice, Poland",Checked In,,Communication Specialist,male,0
+Individual Ticket,"December 12, 2019 8:26 AM","Wrocław, Poland",Checked In,Men's Medium,Data Scientist,male,0.99
+Individual Ticket,"December 12, 2019 8:27 AM","Bratislava, Slovakia",Checked In,Men's Medium,Data engineer,male,0
+Sages tickets,"December 12, 2019 8:28 AM","Warsaw, Poland",Checked In,Men's Large,Trener Data Science / Menedżer Data Science,male,1
+Individual Ticket,"December 12, 2019 8:28 AM","Łódź, Poland",Checked In,Men's Large,Data Analyst,male,0
+Final Call - Corporate,"December 12, 2019 8:29 AM","Poznan, Poland",Checked In,,Talent Acquisition Specialist,female,0.98
+Early Bird - Corporate Ticket,"December 12, 2019 8:30 AM","Furth, Germany",Checked In,Men's Large,Data Developer,male,0.99
+Corporate Ticket,"December 12, 2019 8:30 AM","Bonn, Germany",Checked In,Men's XL,Programmer,male,0.99
+ING tickets,"December 12, 2019 8:32 AM","Katowice, Poland",Checked In,,Junior Credit Risk Modeller,female,0.98
+Early Bird - Corporate Ticket,"December 12, 2019 8:32 AM","Warsaw, Poland",Checked In,Men's Medium,Software Developer,male,1
+Corporate Ticket,"December 12, 2019 8:33 AM","Poznan, Poland",Checked In,Men's XL,Senior BI Engineer,male,1
+Early Bird - Corporate Ticket,"December 12, 2019 8:33 AM","Warsaw, Poland",Checked In,Men's Large,Python Developer,male,1
+Early Bird - Corporate Ticket,"December 12, 2019 8:34 AM","Furth, Germany",Checked In,Men's Large,Data Scientist,male,0.99
+Early Bird - Corporate Ticket,"December 12, 2019 8:34 AM","Halle, Germany",Checked In,Men's XL,DWH Developer,male,0.98
+Sages tickets,"December 12, 2019 8:34 AM","Warsaw, Poland",Checked In,Men's Large,KAM,male,1
+Individual Ticket,"December 12, 2019 8:37 AM","Warsaw, Poland",Checked In,Women's Medium,Data Scientist,female,0.98
+Final Call - Individual Ticket,"December 12, 2019 8:38 AM","Warsaw, Poland",Checked In,Men's Medium,Head of the Department of Corporate Architecture,male,1
+Corporate Ticket,"December 12, 2019 8:39 AM","Krakow, Poland",Checked In,Men's Medium,Data Scientist,male,0
+Individual Ticket,"December 12, 2019 8:40 AM","Zabrze, Poland",Checked In,Women's Small,Data scientist,female,0.98
+Individual Ticket,"December 12, 2019 8:41 AM","Krakow, Poland",Checked In,Women's Medium,Data Scientist,female,0.98
+Corporate Ticket,"December 12, 2019 8:43 AM",Unknown Location,Checked In,Men's Large,Senior Data Scientist,male,1
+Individual Ticket,"December 12, 2019 8:43 AM","Warsaw, Poland",Checked In,Men's Large,Data Scientist,male,1
+Individual Ticket,"December 12, 2019 8:44 AM","Warsaw, Poland",Checked In,Men's Medium,PhD Student,male,1
+Individual Ticket,"December 12, 2019 8:44 AM",Poland,Checked In,Men's Medium,Data Scientist,male,1
+Individual Ticket,"December 12, 2019 8:45 AM","Warsaw, Poland",Checked In,Men's Small,PhD Student,male,0.99
+Early Bird - Individual Ticket,"December 12, 2019 8:47 AM","Warsaw, Poland",Checked In,Men's Large,BI Developer,male,0.81
+Early Bird - Corporate Ticket,"December 12, 2019 8:48 AM","Warsaw, Poland",Checked In,,Software Developer,male,1
+Corporate Ticket,"December 12, 2019 8:49 AM","Warsaw, Poland",Checked In,Men's XL,Python Developer,male,1
+Corporate Ticket,"December 12, 2019 8:50 AM","Warsaw, Poland",Checked In,,Senior Data Engineer,male,0.99
+Individual Ticket,"December 12, 2019 8:50 AM","Warsaw, Poland",Checked In,Men's XL,Mechanical design engineer,male,0.98
+Corporate Ticket,"December 12, 2019 8:51 AM","Warsaw, Poland",Checked In,Men's Large,Data Scientist,male,1
+Final Call - Individual Ticket,"December 12, 2019 8:52 AM","Kaunas, Lithuania",Checked In,Men's Large,Organizer,male,0.75
+Corporate Ticket,"December 12, 2019 8:53 AM",Unknown Location,Checked In,Men's Large,Senior IT Professional,male,1
+Final Call - Corporate,"December 12, 2019 8:53 AM","Warsaw, Poland",Checked In,Men's Large,data scientist,male,1
+Corporate Ticket,"December 12, 2019 8:53 AM","Warsaw, Poland",Checked In,Men's Medium,data scientist,male,1
+Individual Ticket,"December 12, 2019 8:54 AM","Ghent, Belgium",Checked In,Men's Medium,Backend Engineer,male,1
+Early Bird - Corporate Ticket,"December 12, 2019 8:54 AM","Berlin, Germany",Checked In,Men's XL,Junior Data Warehouse Developer,male,0
+Individual Ticket,"December 12, 2019 8:55 AM","Wrocław, Poland",Checked In,Men's Medium,Senior Research Analyst,male,0.99
+Early Bird - Individual Ticket,"December 12, 2019 8:55 AM","Warsaw, Poland",Checked In,Men's XL,-,male,1
+Media,"December 12, 2019 8:56 AM","Łódź, Poland",Checked In,Men's Large,Owner,male,1
+Media,"December 12, 2019 8:56 AM","Łódź, Poland",Checked In,Women's Large,Operator,male,1
+Early Bird - Individual Ticket,"December 12, 2019 8:57 AM","Warsaw, Poland",Checked In,Men's Medium,Software Developer,male,0.99
+CBRE Tickets - invoiced,"December 12, 2019 8:58 AM","London, United Kingdom",Checked In,,Software Engineer,male,0.99
+Individual Ticket,"December 12, 2019 8:58 AM","Wrocław, Poland",Checked In,Men's Large,Big Data Engineer,male,0.95
+Final Call - Individual Ticket,"December 12, 2019 8:59 AM","Łódź, Poland",Checked In,Women's Large,Community,female,0.98
+Final Call - Individual Ticket,"December 12, 2019 8:59 AM","Łódź, Poland",Checked In,Women's Large,Community,female,0.98
+Individual Ticket,"December 12, 2019 8:59 AM","Warsaw, Poland",Checked In,Men's Medium,Owner,male,1
+Early Bird - Individual Ticket,"December 12, 2019 9:00 AM","Warsaw, Poland",Checked In,Men's Medium,Junior Data Scientist,male,0.99
+Corporate Ticket,"December 12, 2019 9:00 AM","Milan, Italy",Checked In,Men's Large,Data Scientist,male,0.99
+Early Bird - Individual Ticket,"December 12, 2019 9:00 AM","Warsaw, Poland",Checked In,Men's XL,analyst,male,0.99
+Individual Ticket,"December 12, 2019 9:01 AM","Frankfurt am Main, Germany",Checked In,Women's Medium,Manager Responsible AI,female,0.97
+Early Bird - Corporate Ticket,"December 12, 2019 9:01 AM","Warsaw, Poland",Checked In,,Programmer,male,1
+Final Call - Individual Ticket,"December 12, 2019 9:01 AM","Bibice, Poland",Checked In,Men's XL,Deep Learning Engineer,male,0
+Corporate Ticket,"December 12, 2019 9:02 AM","Katowice, Poland",Checked In,Men's XL,Data Science Expert,male,1
+Corporate Ticket,"December 12, 2019 9:03 AM","Warsaw, Poland",Checked In,Women's Medium,Expert,female,0.98
+Final Call - Individual Ticket,"December 12, 2019 9:03 AM","Kaunas, Lithuania",Checked In,Men's Medium,Organizer,male,1
+Individual Ticket,"December 12, 2019 9:03 AM",Poland,Checked In,Men's XL,Data Scientist,male,0
+Early Bird - Corporate Ticket,"December 12, 2019 9:04 AM","Krakow, Poland",Checked In,Men's Small,Machine Learning Team Lead,male,1
+Early Bird - Individual Ticket,"December 12, 2019 9:05 AM","Łódź, Poland",Checked In,Men's Medium,Owner,male,1
+Corporate Ticket,"December 12, 2019 9:05 AM","Warsaw, Poland",Checked In,Men's Small,Data Scientist,male,0.95
+Final Call - Corporate,"December 12, 2019 9:05 AM",United States,Checked In,Men's Large,Specialist,male,0.99
+Corporate Ticket,"December 12, 2019 9:06 AM","Warsaw, Poland",Checked In,Men's Medium,Data Engineer,male,1
+Final Call - Corporate,"December 12, 2019 9:06 AM","Warsaw, Poland",Checked In,Men's Medium,Risk Expert,male,0
+Final Call - Corporate,"December 12, 2019 9:06 AM","Poznan, Poland",Checked In,,Event Specialist,female,0.98
+Corporate Ticket,"December 12, 2019 9:06 AM","Frankfurt am Main, Germany",Checked In,Men's Large,Data Analyst,female,0.98
+Corporate Ticket,"December 12, 2019 9:07 AM","Frankfurt am Main, Germany",Checked In,Men's Medium,Data Analyst,male,1
+Corporate Ticket,"December 12, 2019 9:07 AM",United Kingdom,Checked In,Men's Large,Tech Lead,male,0.99
+Final Call Corporate ticket - additional,"December 12, 2019 9:08 AM","Warsaw, Poland",Checked In,Women's Medium,Bioinformatyk,female,0.98
+Early Bird - Corporate Ticket,"December 12, 2019 9:09 AM","Wrocław, Poland",Checked In,Men's Large,Data Scientist,male,1
+Corporate Ticket,"December 12, 2019 9:09 AM","Krakow, Poland",Checked In,Women's Small,Analyst,female,0.98
+Early Bird - Corporate Ticket,"December 12, 2019 9:10 AM","Warsaw, Poland",Checked In,Men's Large,SOFTWARE DEVELOPER,male,1
+Corporate Ticket,"December 12, 2019 9:10 AM","Warsaw, Poland",Checked In,Women's Medium,Consultant,female,0.98
+Corporate Ticket,"December 12, 2019 9:10 AM","Amsterdam, Netherlands",Checked In,Men's XL,Senior ML Engineer,male,0.99
+Individual Ticket,"December 12, 2019 9:11 AM","Wrocław, Poland",Checked In,,Data Engineer,male,1
+Corporate Ticket,"December 12, 2019 9:11 AM","Warsaw, Poland",Checked In,Men's Medium,Developer,male,0
+Early Bird - Corporate Ticket,"December 12, 2019 9:12 AM","Warsaw, Poland",Checked In,Men's Large,Data Scientist,male,1
+Corporate Ticket,"December 12, 2019 9:12 AM","Warsaw, Poland",Checked In,Women's Medium,Credit Risk & Data Science Team Manager,female,0.98
+Corporate Ticket,"December 12, 2019 9:12 AM","Warsaw, Poland",Checked In,Men's Large,Data Scientist,male,0.99
+Corporate Ticket,"December 12, 2019 9:12 AM","Warsaw, Poland",Checked In,Men's Medium,Credit Risk Specialist,male,0.99
+Individual Ticket,"December 12, 2019 9:12 AM",Unknown Location,Checked In,Men's Medium,Deep Learning Engineer,male,0
+Individual Ticket,"December 12, 2019 9:12 AM","Warsaw, Poland",Checked In,Men's Large,Data Analyst,male,0.99
+Corporate Ticket,"December 12, 2019 9:13 AM","Krakow, Poland",Checked In,Men's Medium,software developer,male,0.98
+Final Call - Corporate,"December 12, 2019 9:13 AM",United States,Checked In,Men's Large,Specialist,male,1
+Individual Ticket,"December 12, 2019 9:13 AM","Zurich, Switzerland",Checked In,Men's Medium,Machine Learning Engineer,male,0.99
+Individual Ticket,"December 12, 2019 9:14 AM","Warsaw, Poland",Checked In,Women's Small,BI Developer,female,0.98
+Final Call - Individual Ticket,"December 12, 2019 9:14 AM","Warsaw, Poland",Checked In,Men's Small,Data Scientist,male,0
+Individual Ticket,"December 12, 2019 9:14 AM","Bydgoszcz, Poland",Checked In,,data scientis,male,1
+Early Bird - Corporate Ticket,,"Poznan, Poland",Attending,Men's Medium,Senior Data Scientist,male,0
+Corporate Ticket,"December 12, 2019 9:15 AM","Chelsea, United Kingdom",Checked In,Men's Medium,Machine Learning Engineer,male,1
+Final Call - Corporate,"December 12, 2019 9:16 AM","Warsaw, Poland",Checked In,,Junior Data Scientist,female,0.98
+Corporate Ticket,"December 12, 2019 9:17 AM","Krakow, Poland",Checked In,Women's Small,Analyst,female,0.98
+Final Call - Corporate,"December 12, 2019 9:17 AM","London, United Kingdom",Checked In,Men's Large,Business Analytics Supervisor,male,1
+Corporate Ticket,"December 12, 2019 9:19 AM","Warsaw, Poland",Checked In,Women's Medium,specialist of risk management,female,0.98
+Corporate Ticket,"December 12, 2019 9:19 AM","Poznan, Poland",Checked In,Women's Medium,Data Scientist,female,0.97
+Corporate Ticket,"December 12, 2019 9:19 AM","Warsaw, Poland",Checked In,Men's Medium,expert of risk management,male,1
+Corporate Ticket,"December 12, 2019 9:20 AM","Warsaw, Poland",Checked In,Men's Large,Data Engineer,male,0
+Corporate Ticket,"December 12, 2019 9:20 AM","Warsaw, Poland",Checked In,Women's Small,senior specialist of risk management,female,0.98
+Individual Ticket,"December 12, 2019 9:20 AM","Warsaw, Poland",Checked In,Men's Medium,Owner,male,0.99
+ING tickets,"December 12, 2019 9:20 AM","Katowice, Poland",Checked In,Men's XL,Senior DevOps Engineer,male,1
+Early Bird - Corporate Ticket,"December 12, 2019 9:20 AM","Warsaw, Poland",Checked In,Women's Small,Data DJ,female,0.97
+Early Bird - Corporate Ticket,"December 12, 2019 9:20 AM","Düsseldorf, Germany",Checked In,Men's Large,Junior Data Analyst,male,0.99
+Early Bird - Individual Ticket,"December 12, 2019 9:21 AM","Tekirdağ, Turkey",Checked In,Men's XL,PhD,male,0.97
+Final Call - Individual Ticket,"December 12, 2019 9:21 AM","Krakow, Poland",Checked In,Men's Medium,Software Engineer,male,1
+Final Call - Individual Ticket,"December 12, 2019 9:21 AM",United States,Checked In,Men's Medium,Software Engineer,male,0.99
+Individual Ticket,"December 12, 2019 9:21 AM","Bochnia, Poland",Checked In,Men's Large,Owner,male,1
+Early Bird - Corporate Ticket,"December 12, 2019 9:21 AM","Warsaw, Poland",Checked In,Men's Medium,Software Developer,male,0
+Final Call - Individual Ticket,"December 12, 2019 9:21 AM","Warsaw, Poland",Checked In,Men's XL,Senior Solutions Architect,male,1
+Individual Ticket,"December 12, 2019 9:22 AM","Bristol, United Kingdom",Checked In,Men's Small,Senior Research Associate,male,0.9
+Individual Ticket,"December 12, 2019 9:22 AM",Poland,Checked In,Women's Medium,Data Scientist,female,0.98
+Individual Ticket,"December 12, 2019 9:22 AM","Warsaw, Poland",Checked In,Women's Small,Data Scientist,female,0.98
+Individual Ticket,"December 12, 2019 9:22 AM","Bordon, United Kingdom",Checked In,Women's Medium,Principal Software Engineer,female,0.97
+Individual Ticket,"December 12, 2019 9:22 AM","Bordon, United Kingdom",Checked In,Men's Large,Engineer,male,0.99
+Individual Ticket,"December 12, 2019 9:23 AM","Warsaw, Poland",Checked In,Men's Large,Senior Marketing Data Scientist,male,1
+Early Bird - Individual Ticket,"December 12, 2019 9:23 AM","Białystok, Poland",Checked In,,Software Engineer,male,0
+Early Bird - Individual Ticket,"December 12, 2019 9:23 AM","Bydgoszcz, Poland",Checked In,Men's XL,Data Scientist,male,1
+Early Bird - Individual Ticket,"December 12, 2019 9:23 AM","Bielsk Podlaski, Poland",Checked In,Men's Large,Data Engineer,male,1
+Early Bird - Individual Ticket,"December 12, 2019 9:23 AM","Białystok, Poland",Checked In,Men's Medium,Software Engineer,male,1
+Early Bird - Individual Ticket,"December 12, 2019 9:23 AM","Białystok, Poland",Checked In,Men's Large,ML Engineer,male,1
+Early Bird - Individual Ticket,"December 12, 2019 9:24 AM","Białystok, Poland",Checked In,Men's Large,CEO,male,1
+Early Bird - Individual Ticket,"December 12, 2019 9:24 AM","Białystok, Poland",Checked In,Women's Medium,Machine Learning Developer,female,0.99
+Early Bird - Individual Ticket,"December 12, 2019 9:24 AM",Poland,Checked In,Women's Medium,Model developer,female,0.98
+Individual Ticket,"December 12, 2019 9:24 AM","Wrocław, Poland",Checked In,Men's Medium,Technology Engineer,male,1
+Final Call - Individual Ticket,"December 12, 2019 9:24 AM","Manchester, United Kingdom",Checked In,Men's Medium,Software Consultant,male,1
+Final Call - Individual Ticket,"December 12, 2019 9:25 AM","Manchester, United Kingdom",Checked In,Men's Large,Graduate Consultant – Developer,male,0.95
+Final Call - Individual Ticket,"December 12, 2019 9:25 AM","London, United Kingdom",Checked In,Women's Medium,Software Developer,female,0.98
+Final Call - Individual Ticket,"December 12, 2019 9:25 AM","London, United Kingdom",Checked In,Women's Large,Software Developer,female,0.99
+Corporate Ticket,"December 12, 2019 9:25 AM","Warsaw, Poland",Checked In,Men's XL,Head of Credit Risk Bureau,male,0
+Early Bird - Individual Ticket,"December 12, 2019 9:25 AM","Berlin, Germany",Checked In,,PhD Candidate,male,0
+Corporate Ticket,"December 12, 2019 9:26 AM",Unknown Location,Checked In,Women's Medium,IT Professional,female,0.98
+Corporate Ticket,"December 12, 2019 9:26 AM","Poznan, Poland",Checked In,Men's XL,Expert IT,male,1
+Corporate Ticket,"December 12, 2019 9:26 AM",Unknown Location,Checked In,Men's Medium,Junior IT Professional,male,1
+Individual Ticket,"December 12, 2019 9:26 AM","Frankfurt am Main, Germany",Checked In,Men's XL,Quantitative Credit Risk Manager,male,0.98
+Individual Ticket,"December 12, 2019 9:26 AM","Frankfurt am Main, Germany",Checked In,Men's Large,Quantitative Credit Risk Manager,male,0.99
+Individual Ticket,"December 12, 2019 9:27 AM","Gdańsk, Poland",Checked In,Men's Large,Senior Data Scientist,male,0.96
+Individual Ticket,"December 12, 2019 9:27 AM","Frankfurt am Main, Germany",Checked In,Men's Large,Junior Data Scientist,male,1
+Individual Ticket,"December 12, 2019 9:27 AM","Warsaw, Poland",Checked In,Men's Medium,Software developer,male,1
+Individual Ticket,"December 12, 2019 9:27 AM","Berlin, Germany",Checked In,Men's Large,Senior Medical AI researcher,male,0.98
+Corporate Ticket,"December 12, 2019 9:27 AM",United Kingdom,Checked In,Men's Small,Developer,male,0.99
+Individual Ticket,"December 12, 2019 9:27 AM","Warsaw, Poland",Checked In,Men's Medium,R&D Team Leader,male,1
+Corporate Ticket,"December 12, 2019 9:28 AM","Warsaw, Poland",Checked In,Men's Medium,Expert,male,0.99
+Final Call - Corporate,"December 12, 2019 9:28 AM","London, United Kingdom",Checked In,Women's Small,Business analyst,female,0.99
+Corporate Ticket,"December 12, 2019 9:28 AM","Katowice, Poland",Checked In,Women's Medium,Data Scientist,female,0.98
+Corporate Ticket,"December 12, 2019 9:28 AM","Krakow, Poland",Checked In,Men's Large,Data Scientist,male,1
+Individual Ticket,"December 12, 2019 9:28 AM",Poland,Checked In,Men's Small,GIS Engineer,male,1
+Corporate Ticket,"December 12, 2019 9:28 AM","Kaunas, Lithuania",Checked In,Men's Large,Data Scientist,male,0.97
+Corporate Ticket,"December 12, 2019 9:28 AM","Kaunas, Lithuania",Checked In,Men's Large,Data Scientist,male,0.99
+Corporate Ticket,"December 12, 2019 9:28 AM","Warsaw, Poland",Checked In,Men's Large,Junior Data Scientist,male,0.99
+Corporate Ticket,"December 12, 2019 9:29 AM","Kaunas, Lithuania",Checked In,Women's Medium,Junior Data Analyst,female,0
+Corporate Ticket,"December 12, 2019 9:29 AM","Kaunas, Lithuania",Checked In,Women's Medium,Junior Data Scientist,female,0.98
+Corporate Ticket,"December 12, 2019 9:29 AM","Warsaw, Poland",Checked In,Men's Large,Section Head,male,0.99
+Early Bird - Individual Ticket,"December 12, 2019 9:29 AM","Gliwice, Poland",Checked In,Men's Medium,Software Engineer,male,1
+Early Bird - Corporate Ticket,"December 12, 2019 9:29 AM","Wrocław, Poland",Checked In,Men's Medium,IT auditor,male,1
+Early Bird - Corporate Ticket,"December 12, 2019 9:29 AM","Krakow, Poland",Checked In,Men's Large,Traded Risk Data Developer,male,0
+Corporate Ticket,"December 12, 2019 9:29 AM","Warsaw, Poland",Checked In,Men's XL,Python Developer,male,1
+Early Bird - Corporate Ticket,"December 12, 2019 9:30 AM","Warsaw, Poland",Checked In,Men's XL,Data Scientist,male,0
+Individual Ticket,"December 12, 2019 9:30 AM","Tel Aviv, Israel",Checked In,Men's XL,Data Scientist,male,0.98
+ING tickets,"December 12, 2019 9:30 AM","Katowice, Poland",Checked In,Women's Small,model maker,female,0.98
+ING tickets,"December 12, 2019 9:31 AM","Katowice, Poland",Checked In,Men's Large,Risk modelling - Junior Specialist,male,0.99
+Corporate Ticket,"December 12, 2019 9:31 AM","Warsaw, Poland",Checked In,Men's Medium,Senior IT Manager,male,1
+Corporate Ticket,"December 12, 2019 9:31 AM","Warsaw, Poland",Checked In,Women's Small,junior specialist of risk management,female,0.98
+Corporate Ticket,"December 12, 2019 9:31 AM","Warsaw, Poland",Checked In,Men's Medium,Strategic Analyst,male,0.99
+Individual Ticket,"December 12, 2019 9:31 AM","Milan, Italy",Checked In,Men's Large,Data Scientist,male,0.99
+Individual Ticket,"December 12, 2019 9:31 AM","Milan, Italy",Checked In,Women's Small,Data Scientist,female,0.97
+Corporate Ticket,"December 12, 2019 9:31 AM","Warsaw, Poland",Checked In,Men's XL,Data Scientist,male,0
+Corporate Ticket,"December 12, 2019 9:32 AM","Warsaw, Poland",Checked In,Women's Medium,Junior Data Scientist,female,0.98
+Individual Ticket,"December 12, 2019 9:32 AM","Warsaw, Poland",Checked In,Men's Medium,AlgoTrader,male,1
+Corporate Ticket,"December 12, 2019 9:32 AM","Poznan, Poland",Checked In,Women's Large,Data Scientist Intern,female,0.97
+Individual Ticket,"December 12, 2019 9:32 AM","Poznan, Poland",Checked In,Women's Small,Data Scientist,female,0.98
+Corporate Ticket,"December 12, 2019 9:32 AM","Poznan, Poland",Checked In,Men's Large,Senior Data Scientist,male,1
+Corporate Ticket,"December 12, 2019 9:32 AM","Munich, Germany",Checked In,Men's Medium,Software engineer,male,0.9
+Early Bird - Corporate Ticket,"December 12, 2019 9:33 AM","Warsaw, Poland",Checked In,,Programmer,male,0
+Early Bird - Corporate Ticket,"December 12, 2019 9:33 AM","Furth, Germany",Checked In,Women's Large,Data Developer,female,0.97
+Individual Ticket,"December 12, 2019 9:33 AM","Bad Honnef, Germany",Checked In,,student,male,0.97
+Final Call - Corporate,"December 12, 2019 9:33 AM","Warsaw, Poland",Checked In,Men's Large,Ekspert zabezpieczeń systemów teleinformatycznych,male,0
+Final Call - Corporate,"December 12, 2019 9:33 AM","Warsaw, Poland",Checked In,Men's XL,Ekspert zabezpieczeń systemów teleinformatycznych,male,1
+Corporate Ticket,"December 12, 2019 9:33 AM",United Kingdom,Checked In,Men's Large,Developer,male,0
+Corporate Ticket,"December 12, 2019 9:34 AM","Warsaw, Poland",Checked In,Women's Small,Inżynier oporgramowania,female,0.98
+Individual Ticket,"December 12, 2019 9:34 AM","Birkirkara, Malta",Checked In,Men's Medium,developer,male,0.99
+Corporate Ticket,"December 12, 2019 9:34 AM","Warsaw, Poland",Checked In,Men's Large,Senior specialist,male,1
+Individual Ticket,"December 12, 2019 9:34 AM","Hampstead, United Kingdom",Checked In,Men's Medium,Senior Data Engineer,male,1
+Individual Ticket,"December 12, 2019 9:34 AM","Warsaw, Poland",Checked In,Men's Medium,Reinforcement Learning Researcher,male,0.99
+Final Call Corporate ticket - additional,"December 12, 2019 9:35 AM","Warsaw, Poland",Checked In,Men's XL,Bioinformatyk,male,0
+Corporate Ticket,"December 12, 2019 9:35 AM",United Kingdom,Checked In,Men's Large,Developer,male,0.98
+Corporate Ticket,"December 12, 2019 9:35 AM","Warsaw, Poland",Checked In,,Data Engineer,male,1
+Final Call - Corporate,"December 12, 2019 9:35 AM","IL, United States",Checked In,Women's Medium,Data Scientist,male,0.82
+Final Call - Corporate,"December 12, 2019 9:35 AM","IL, United States",Checked In,Women's Medium,Data Scientist,female,0.98
+Corporate Ticket,"December 12, 2019 9:35 AM","Krakow, Poland",Checked In,Women's Large,Junior Python Developer,female,0.98
+Corporate Ticket,"December 12, 2019 9:36 AM","Poznan, Poland",Checked In,Men's Large,Junior Data Analyst,male,1
+Early Bird - Individual Ticket,"December 12, 2019 9:36 AM","Frederiksberg, Denmark",Checked In,,Process Consultant,female,0.98
+Early Bird - Individual Ticket,"December 12, 2019 9:36 AM","Warsaw, Poland",Checked In,,Machine learning engineer,female,0.98
+Early Bird - Individual Ticket,"December 12, 2019 9:36 AM","Hayes, United Kingdom",Checked In,Men's Large,Technical Support Engineer,male,0
+Early Bird - Individual Ticket,"December 12, 2019 9:36 AM","Warsaw, Poland",Checked In,Men's Medium,Data Scientist,male,0.99
+Final Call - Corporate,"December 12, 2019 9:36 AM","London, United Kingdom",Checked In,Men's Large,Energy&Sustainability Analyst,male,1
+Individual Ticket,"December 12, 2019 9:36 AM","Leiden, Netherlands",Checked In,,CTO,male,0.99
+Individual Ticket,"December 12, 2019 9:37 AM","Poznan, Poland",Checked In,,Freelancer,female,0.98
+Individual Ticket,"December 12, 2019 9:37 AM","Poznan, Poland",Checked In,,Backend Engineer,male,1
+Individual Ticket,"December 12, 2019 9:37 AM","Wrocław, Poland",Checked In,Men's Large,Data Scientist,male,0.99
+Individual Ticket,"December 12, 2019 9:37 AM",Poland,Checked In,Men's Large,Data Scientist,male,1
+Final Call - Corporate,"December 12, 2019 9:37 AM","Warsaw, Poland",Checked In,,Team Leader,male,1
+Corporate Ticket,"December 12, 2019 9:37 AM","Warsaw, Poland",Checked In,Men's Large,EAI Engineer,male,0.99
+Individual Ticket,"December 12, 2019 9:37 AM","Poznan, Poland",Checked In,Women's Small,Data Engineer,female,0.98
+Individual Ticket,"December 12, 2019 9:38 AM","Poznan, Poland",Checked In,Men's XL,Data Engineer,male,1
+Individual Ticket,"December 12, 2019 9:38 AM","Poznan, Poland",Checked In,Men's Large,Data Scientist,male,0.99
+Individual Ticket,"December 12, 2019 9:38 AM","Koszalin, Poland",Checked In,Men's Large,Data Engineer (QA),male,1
+Corporate Ticket,"December 12, 2019 9:38 AM","Krakow, Poland",Checked In,Women's Medium,Data Scientist,female,0.98
+Individual Ticket,"December 12, 2019 9:38 AM","Krakow, Poland",Checked In,,Data Scientist,male,0.99
+Individual Ticket,"December 12, 2019 9:38 AM","Krakow, Poland",Checked In,Men's XL,Data Scientist,male,1
+Corporate Ticket,"December 12, 2019 9:38 AM","Krakow, Poland",Checked In,Men's Large,Data Scientist,female,0.98
+Corporate Ticket,"December 12, 2019 9:39 AM","Warsaw, Poland",Checked In,Women's Small,Data Scientist,female,0
+Corporate Ticket,"December 12, 2019 9:39 AM","Warsaw, Poland",Checked In,Women's Medium,Programmer,female,0.98
+Corporate Ticket,"December 12, 2019 9:39 AM",United Kingdom,Checked In,Men's Large,Developer,male,1
+Corporate Ticket,"December 12, 2019 9:39 AM","Kaunas, Lithuania",Checked In,Men's Medium,Senior software engineer,male,1
+Corporate Ticket,"December 12, 2019 9:39 AM","Kaunas, Lithuania",Checked In,Women's Medium,Software Engineer,male,0.96
+Corporate Ticket,"December 12, 2019 9:39 AM","Kaunas, Lithuania",Checked In,Women's Small,Software Engineer,female,0.89
+Corporate Ticket,"December 12, 2019 9:39 AM","Kaunas, Lithuania",Checked In,Men's Medium,Software Engineer,male,0.99
+Corporate Ticket,"December 12, 2019 9:39 AM","Warsaw, Poland",Checked In,,Quality Assurance Consultant,male,0.95
+Individual Ticket,"December 12, 2019 9:40 AM","Warsaw, Poland",Checked In,Men's Large,Data Science Team Lead,male,0
+Corporate Ticket,"December 12, 2019 9:40 AM","Łódź, Poland",Checked In,Women's XL,Data Scientist,female,0.98
+Early Bird - Corporate Ticket,"December 12, 2019 9:40 AM","Wrocław, Poland",Checked In,Men's Large,Data Warehouse Architect,male,0
+Early Bird - Corporate Ticket,"December 12, 2019 9:40 AM","Wrocław, Poland",Checked In,Men's XL,R&D Team Leader,male,0
+Early Bird - Corporate Ticket,"December 12, 2019 9:40 AM","Wrocław, Poland",Checked In,Men's Large,Machine Learning Engineer,male,1
+Corporate Ticket,"December 12, 2019 9:40 AM","Warsaw, Poland",Checked In,Men's Medium,specialist of risk management,male,1
+Corporate Ticket,"December 12, 2019 9:40 AM","Warsaw, Poland",Checked In,Men's Medium,Junior Data Scientist,male,1
+Individual Ticket,"December 12, 2019 9:41 AM","Warsaw, Poland",Checked In,Men's Large,Engagement Manager,male,1
+Early Bird - Corporate Ticket,"December 12, 2019 9:41 AM","Wrocław, Poland",Checked In,Men's Medium,R&D Intern,male,0.99
+Early Bird - Corporate Ticket,"December 12, 2019 9:41 AM","Warsaw, Poland",Checked In,Men's Large,Tech Lead,male,0.98
+Early Bird - Corporate Ticket,"December 12, 2019 9:41 AM","Warsaw, Poland",Checked In,Men's Medium,Data Scientist,male,1
+Individual Ticket,"December 12, 2019 9:41 AM","Warsaw, Poland",Checked In,Men's Medium,Reinforcement Learning Researcher,male,0.99
+Corporate Ticket,"December 12, 2019 9:41 AM","Warsaw, Poland",Checked In,Men's Medium,Data Engineer,male,1
+Individual Ticket,"December 12, 2019 9:42 AM","Warsaw, Poland",Checked In,Men's Large,Postdoc,male,1
+Individual Ticket,"December 12, 2019 9:42 AM","Warsaw, Poland",Checked In,Men's XL,Postdoc,male,0.99
+Individual Ticket,"December 12, 2019 9:42 AM","Warsaw, Poland",Checked In,Men's XL,PhD student,male,0.95
+Final Call - Individual Ticket,"December 12, 2019 9:42 AM","Łódź, Poland",Checked In,Men's Medium,Research & Technical Specialist,male,0
+Amazon Corporate ticekt,"December 12, 2019 9:42 AM","Ashburn, VA, United States",Checked In,Men's XL,Consulant - Application Development,male,1
+Early Bird - Corporate Ticket,"December 12, 2019 9:42 AM","Basel, Switzerland",Checked In,Women's Medium,Senior IT Professional,female,0.98
+Early Bird - Corporate Ticket,"December 12, 2019 9:43 AM","Tarnowo Podgorne, Poland",Checked In,Women's Small,Senior Data Scientist,female,0.98
+Early Bird - Corporate Ticket,"December 12, 2019 9:43 AM","Poznan, Poland",Checked In,Men's Medium,Research Engineer,male,0
+Early Bird - Corporate Ticket,"December 12, 2019 9:43 AM","Poznan, Poland",Checked In,Men's Medium,Senior Research Engineer,male,0.99
+Early Bird - Corporate Ticket,"December 12, 2019 9:43 AM","Poznan, Poland",Checked In,Men's Medium,Associate Research Engineer,male,0.99
+Corporate Ticket,"December 12, 2019 9:43 AM","Wrocław, Poland",Checked In,Women's Large,Senior Python Developer,female,0.98
+Corporate Ticket,"December 12, 2019 9:43 AM","Warsaw, Poland",Checked In,Women's Medium,Python Developer,female,0.98
+Final Call - Individual Ticket,"December 12, 2019 9:43 AM","Wrocław, Poland",Checked In,Men's XL,Data Science Consultant,male,1
+Corporate Ticket,"December 12, 2019 9:43 AM","Wrocław, Poland",Checked In,Men's Medium,Python Developer,male,0.99
+Corporate Ticket,"December 12, 2019 9:43 AM","Poznan, Poland",Checked In,Women's Small,Senior Data Analyst,female,0.98
+Individual Ticket,"December 12, 2019 9:44 AM","Warsaw, Poland",Checked In,Men's Medium,Python Developer,male,0.99
+Corporate Ticket,"December 12, 2019 9:44 AM","Warsaw, Poland",Checked In,Men's Large,Backend developer,male,1
+Early Bird - Corporate Ticket,"December 12, 2019 9:44 AM","Warsaw, Poland",Checked In,,Programmer,male,0
+Corporate Ticket,"December 12, 2019 9:44 AM","Poznan, Poland",Checked In,Men's Large,Data Analyst,male,1
+Early Bird - Corporate Ticket,"December 12, 2019 9:44 AM","Poznan, Poland",Checked In,,Data Analyst,male,1
+Corporate Ticket,"December 12, 2019 9:44 AM","Poznan, Poland",Checked In,Men's Large,Junior Data Analyst,male,1
+Corporate Ticket,"December 12, 2019 9:44 AM","Katowice, Poland",Checked In,Men's Medium,Data Scientist,male,1
+Final Call - Individual Ticket,"December 12, 2019 9:44 AM","Warsaw, Poland",Checked In,Men's Large,Data Management Specialist,male,0.99
+Final Call - Corporate,"December 12, 2019 9:45 AM","Warsaw, Poland",Checked In,Men's XL,Główny Specjalista,male,0.98
+ING tickets,"December 12, 2019 9:45 AM","Katowice, Poland",Checked In,,DevOps Expert,female,0.98
+Corporate Ticket,"December 12, 2019 9:45 AM","Warsaw, Poland",Checked In,,Junior Specialist,female,0.98
+Corporate Ticket,"December 12, 2019 9:45 AM","Warsaw, Poland",Checked In,Women's Small,Senior Data Scientist,female,0.98
+Individual Ticket,"December 12, 2019 9:45 AM","Wrocław, Poland",Checked In,,Data Scientist,male,0.99
+Corporate Ticket,"December 12, 2019 9:45 AM","Warsaw, Poland",Checked In,Women's Large,data engineer,female,0.98
+Corporate Ticket,"December 12, 2019 9:45 AM","Warsaw, Poland",Checked In,Women's Medium,data engineer,female,0.98
+Individual Ticket,"December 12, 2019 9:46 AM","Lidzbark Warmiński, Poland",Checked In,Men's Medium,Data Analyst,male,0
+Individual Ticket,"December 12, 2019 9:46 AM","Enfield Town, United Kingdom",Checked In,Women's Medium,Data Scientist,female,0.96
+Early Bird - Individual Ticket,"December 12, 2019 9:46 AM","London, United Kingdom",Checked In,Men's Medium,Model Developer,male,1
+Corporate Ticket,"December 12, 2019 9:46 AM","Krakow, Poland",Checked In,Men's Large,Digital Insights & Implementation Manager,male,0.99
+Individual Ticket,"December 12, 2019 9:46 AM","Prague, Czech Republic",Checked In,Women's Small,ML Researcher,female,0.98
+Individual Ticket,"December 12, 2019 9:46 AM","Prague, Czech Republic",Checked In,Men's Medium,ML researcher,male,0.84
+Corporate Ticket,"December 12, 2019 9:46 AM","Warsaw, Poland",Checked In,Men's Large,Senior Data Scientist,male,0
+Zolando Early Bird Corporate Tickets,"December 12, 2019 9:46 AM","Berlin, Germany",Checked In,Men's Medium,Data Analyst,female,0.98
+Zolando Early Bird Corporate Tickets,"December 12, 2019 9:47 AM","Berlin, Germany",Checked In,Men's Medium,Customer Analyst,male,0.98
+Zolando Early Bird Corporate Tickets,"December 12, 2019 9:47 AM","Berlin, Germany",Checked In,Women's Small,Data scientist,female,0.93
+Zolando Early Bird Corporate Tickets,"December 12, 2019 9:47 AM","Berlin, Germany",Checked In,Men's Medium,Data Scientist,male,1
+ING tickets,"December 12, 2019 9:47 AM",Poland,Checked In,Men's Medium,Data Engineer,male,1
+Corporate Ticket,"December 12, 2019 9:47 AM",United Kingdom,Checked In,Men's Medium,Tech Lead,male,1
+Corporate Ticket,"December 12, 2019 9:47 AM","Paris, France",Checked In,,Lead Data Scientist,male,0
+Individual Ticket,"December 12, 2019 9:48 AM",Poland,Checked In,Men's Large,NLP engineer,male,0.99
+Early Bird - Individual Ticket,"December 12, 2019 9:48 AM","Warsaw, Poland",Checked In,Men's Large,Risk Modelling,male,0.99
+Individual Ticket,"December 12, 2019 9:48 AM","Dublin, Ireland",Checked In,,N/A,male,0.99
+Individual Ticket,"December 12, 2019 9:48 AM","Warsaw, Poland",Checked In,Men's Medium,Software Developer,male,1
+Corporate Ticket,"December 12, 2019 9:48 AM",United Kingdom,Checked In,Men's Small,Tech Lead,male,1
+Corporate Ticket,"December 12, 2019 9:49 AM",United Kingdom,Checked In,Men's XL,Senior Data Scientist,male,0.98
+Early Bird - Corporate Ticket,"December 12, 2019 9:49 AM","Warsaw, Poland",Checked In,Men's Medium,SOFTWARE DEVELOPER,male,0
+Early Bird - Individual Ticket,"December 12, 2019 9:50 AM","Grodzisk Mazowiecki, Poland",Checked In,Women's Medium,Data Scientist,female,0.98
+Corporate Ticket,"December 12, 2019 9:50 AM","Camden, United Kingdom",Checked In,Men's Large,Developer,male,0.99
+Corporate Ticket,"December 12, 2019 9:50 AM",United Kingdom,Checked In,Men's Large,Associate Director,male,0.95
+Final Call - Corporate,"December 12, 2019 9:50 AM","Warsaw, Poland",Checked In,Men's XL,Customer Engineer,male,0
+Early Bird - Individual Ticket,"December 12, 2019 9:50 AM","Warsaw, Poland",Checked In,Men's Medium,Quantitative Risk Consultant,male,0.94
+Early Bird - Individual Ticket,"December 12, 2019 9:51 AM","London, United Kingdom",Checked In,Men's Medium,Model Developer,male,0.99
+Corporate Ticket,"December 12, 2019 9:51 AM","Warsaw, Poland",Checked In,Men's Medium,Data Scientist,male,0
+Individual Ticket,"December 12, 2019 9:51 AM","Warsaw, Poland",Checked In,Men's Medium,data scientist,male,0.98
+Individual Ticket,"December 12, 2019 9:52 AM","Poznan, Poland",Checked In,Women's Small,Data Analyst,female,0.98
+Individual Ticket,"December 12, 2019 9:52 AM","Warsaw, Poland",Checked In,Men's XL,Data Scientist,male,1
+Corporate Ticket,"December 12, 2019 9:52 AM","Warsaw, Poland",Checked In,Men's Medium,Specialist,male,0.99
+Individual Ticket,"December 12, 2019 9:53 AM","Łódź, Poland",Checked In,Men's Medium,Data Analyst,male,1
+Individual Ticket,"December 12, 2019 9:53 AM","Warsaw, Poland",Checked In,Men's XL,Software Engineer,male,0
+Individual Ticket,"December 12, 2019 9:53 AM","Łódź, Poland",Checked In,Men's XL,Senior GIS Engineer,male,1
+Individual Ticket,"December 12, 2019 9:53 AM","Mumbai, India",Checked In,Men's Large,Data scientist,male,0.99
+Individual Ticket,"December 12, 2019 9:53 AM","Łódź, Poland",Checked In,Men's Medium,Project Coordinator,male,1
+Individual Ticket,"December 12, 2019 9:54 AM","Brno, Czech Republic",Checked In,Women's Medium,Data Scientist,female,0.98
+Final Call - Corporate,"December 12, 2019 9:54 AM","London, United Kingdom",Checked In,Men's Large,Energy and Sustainability Analyst,male,1
+Corporate Ticket,"December 12, 2019 9:56 AM","NC, United States",Checked In,,Senior Statistician,female,0.98
+Corporate Ticket,"December 12, 2019 9:57 AM","Warsaw, Poland",Checked In,Women's Medium,NLP Engineer,female,0.98
+Corporate Ticket,"December 12, 2019 9:57 AM","Warsaw, Poland",Checked In,Men's Large,Programmer,male,1
+Corporate Ticket,"December 12, 2019 9:57 AM","Poznan, Poland",Checked In,Women's Medium,Data Analyst,female,0
+Early Bird - Corporate Ticket,"December 12, 2019 9:57 AM","Warsaw, Poland",Checked In,,Programmer,male,1
+Final Call - Corporate,"December 12, 2019 9:58 AM","Warsaw, Poland",Checked In,Men's Small,Ekspert ds. Nadużyć Telekomunikacyjnych,male,1
+Early Bird - Individual Ticket,"December 12, 2019 9:58 AM","Warsaw, Poland",Checked In,Men's Medium,Programista Java,male,1
+Final Call - Corporate,"December 12, 2019 9:58 AM","Krakow, Poland",Checked In,,Analityk ds. Data Mining,female,0.98
+Corporate Ticket,"December 12, 2019 9:58 AM","Poznan, Poland",Checked In,Men's Medium,Data Scientist,male,0
+Individual Ticket,"December 12, 2019 9:59 AM","Krakow, Poland",Checked In,Men's XL,Data Engineer,male,1
+Corporate Ticket,"December 12, 2019 9:59 AM","Warsaw, Poland",Checked In,Men's Medium,Senior Data Scientist,male,0
+Individual Ticket,"December 12, 2019 9:59 AM","Białystok, Poland",Checked In,Men's Medium,Python Tech Lead,male,0
+Early Bird - Individual Ticket,"December 12, 2019 10:00 AM","Białystok, Poland",Checked In,Men's Medium,CEO,male,1
+Early Bird - Individual Ticket,"December 12, 2019 10:00 AM","Białystok, Poland",Checked In,Men's Medium,Lead Researcher,male,1
+Corporate Ticket,"December 12, 2019 10:00 AM","Warsaw, Poland",Checked In,Men's Medium,Senior Software Production Engineer,male,1
+Corporate Ticket,"December 12, 2019 10:01 AM","Warsaw, Poland",Checked In,Men's Small,Data Scientist,male,0.86
+Final Call - Individual Ticket,"December 12, 2019 10:02 AM","Warsaw, Poland",Checked In,Men's Medium,Machine Learning Engineer,male,1
+Individual Ticket,"December 12, 2019 10:02 AM","Warsaw, Poland",Checked In,Men's Medium,Principal Software Engineer,male,0.99
+Final Call - Individual Ticket,"December 12, 2019 10:02 AM","Zurich, Switzerland",Checked In,,Big Data Engineer,male,0.99
+Final Call - Individual Ticket,"December 12, 2019 10:02 AM","Krakow, Poland",Checked In,,Program Director,male,1
+Individual Ticket,"December 12, 2019 10:03 AM","Dartford, United Kingdom",Checked In,Women's Medium,Data Engineer,male,1
+Individual Ticket,"December 12, 2019 10:03 AM","Warsaw, Poland",Checked In,Men's Large,BI Tech Lead,male,0.99
+Final Call - Individual Ticket,"December 12, 2019 10:03 AM","Warsaw, Poland",Checked In,Men's Medium,Data Scientist,male,0
+Corporate Ticket,"December 12, 2019 10:03 AM","Warsaw, Poland",Checked In,Men's Medium,EAI Manager,male,1
+Corporate Ticket,"December 12, 2019 10:03 AM","Warsaw, Poland",Checked In,Men's Large,Data Scientist,male,1
+Final Call - Individual Ticket,"December 12, 2019 10:03 AM","Gdańsk, Poland",Checked In,Men's Medium,Data Scientist,male,1
+Final Call - Individual Ticket,"December 12, 2019 10:04 AM","Gdańsk, Poland",Checked In,Men's Large,Machine Learning Engineer,male,0.99
+Corporate Ticket,"December 12, 2019 10:05 AM","Gdańsk, Poland",Checked In,Men's Medium,Data Scientist,male,1
+Zolando Early Bird Corporate Tickets,"December 12, 2019 10:06 AM","Berlin, Germany",Checked In,Men's Large,Software Engineer,male,0.99
+Zolando Early Bird Corporate Tickets,"December 12, 2019 10:06 AM","Berlin, Germany",Checked In,Men's Large,Senior BI Analyst,male,0.95
+Early Bird - Corporate Ticket,"December 12, 2019 10:06 AM","Warsaw, Poland",Checked In,Men's Medium,Software Developer,male,0.99
+Final Call - Corporate,"December 12, 2019 10:07 AM","Warsaw, Poland",Checked In,Men's Large,Główny Specjalista,male,1
+Final Call - Corporate,"December 12, 2019 10:08 AM","London, United Kingdom",Checked In,Women's Medium,BI Developers TL,female,0.98
+Individual Ticket,"December 12, 2019 10:09 AM","Warsaw, Poland",Checked In,Men's XL,Data Engineer,male,0.99
+Corporate Ticket,"December 12, 2019 10:09 AM",United Kingdom,Checked In,Men's Medium,Advanced Analytics Manager,male,0
+Final Call - Corporate,"December 12, 2019 10:09 AM","Warsaw, Poland",Checked In,Men's Medium,Senior Data Scientist,male,1
+Final Call - Individual Ticket,"December 12, 2019 10:10 AM","Vilnius, Lithuania",Checked In,Men's Medium,CEO,male,0
+Early Bird - Individual Ticket,"December 12, 2019 10:10 AM","Warsaw, Poland",Checked In,Men's Large,C# Developer,male,0.99
+Individual Ticket,"December 12, 2019 10:10 AM","Warsaw, Poland",Checked In,Women's Large,Data Scientist,female,0.99
+Early Bird - Corporate Ticket,"December 12, 2019 10:10 AM","Almere Stad, Netherlands",Checked In,Men's Medium,Data Scientist,male,0.96
+Early Bird - Corporate Ticket,"December 12, 2019 10:10 AM","Almere Stad, Netherlands",Checked In,Women's Medium,Data Scientist,female,0.98
+Early Bird - Corporate Ticket,"December 12, 2019 10:10 AM","Almere Stad, Netherlands",Checked In,Men's XL,Data Scientist,male,0.99
+Corporate Ticket,"December 12, 2019 10:11 AM","Stuttgart, Germany",Checked In,Men's Medium,Data Engineer,male,0.99
+Individual Ticket,"December 12, 2019 10:11 AM","Warsaw, Poland",Checked In,Men's Small,Deep Learning Engineer,male,0.99
+Individual Ticket,"December 12, 2019 10:11 AM","Warsaw, Poland",Checked In,Women's Medium,software engineer,female,0.94
+Corporate Ticket,"December 12, 2019 10:12 AM","Warsaw, Poland",Checked In,Men's Medium,Inżynier oprogramowania,male,0.99
+Early Bird - Individual Ticket,"December 12, 2019 10:12 AM","Warsaw, Poland",Checked In,Men's Large,data scientist,male,0.99
+Early Bird - Individual Ticket,"December 12, 2019 10:12 AM","Warsaw, Poland",Checked In,Men's XL,Machine Learning Engineer,male,0
+Final Call - Corporate,"December 12, 2019 10:17 AM","Warsaw, Poland",Checked In,Men's Medium,Data Scientist / Trainer,male,0.99
+Early Bird - Individual Ticket,"December 12, 2019 10:17 AM","Opole, Poland",Checked In,Men's Medium,Python Developer,male,1
+Individual Ticket,"December 12, 2019 10:17 AM","Warsaw, Poland",Checked In,Women's Large,Student,female,0.99
+Final Call - Corporate,"December 12, 2019 10:18 AM","Warsaw, Poland",Checked In,Men's Large,Ekspert zabezpieczeń systemów teleinformatycznych,male,1
+Early Bird - Individual Ticket,"December 12, 2019 10:18 AM",Poland,Checked In,Men's Medium,scientific programmer,male,0.99
+Individual Ticket,"December 12, 2019 10:19 AM","Warsaw, Poland",Checked In,Women's Large,Data Scientists,female,0.98
+Individual Ticket,"December 12, 2019 10:21 AM","Warsaw, Poland",Checked In,Men's Medium,Data Scientist,male,0
+Early Bird - Individual Ticket,"December 12, 2019 10:23 AM","Warsaw, Poland",Checked In,Men's Medium,Big Data Inżynier,male,0
+Zolando Early Bird Corporate Tickets,"December 12, 2019 10:25 AM","Berlin, Germany",Checked In,Men's Large,Data Engineer,male,0.98
+Zolando Early Bird Corporate Tickets,"December 12, 2019 10:26 AM","Berlin, Germany",Checked In,Women's Small,Software Engineer,female,0.98
+Zolando Early Bird Corporate Tickets,"December 12, 2019 10:27 AM","Berlin, Germany",Checked In,Men's Large,Data Engineer,male,0.93
+Zolando Early Bird Corporate Tickets,"December 12, 2019 10:27 AM","Berlin, Germany",Checked In,Men's XL,Data Engineer,male,1
+Zolando Early Bird Corporate Tickets,"December 12, 2019 10:27 AM","Berlin, Germany",Checked In,Men's Medium,Data Engineer,male,0.68
+Zolando Early Bird Corporate Tickets,"December 12, 2019 10:27 AM","Berlin, Germany",Checked In,Men's Medium,Lead Engineer,male,0.99
+Early Bird - Corporate Ticket,"December 12, 2019 10:28 AM","Poznan, Poland",Checked In,Men's Medium,Principal Data Scientist,male,1
+Corporate Ticket,"December 12, 2019 10:28 AM","Poznan, Poland",Checked In,Men's Medium,Senior Data Scientist,male,1
+Early Bird - Corporate Ticket,"December 12, 2019 10:29 AM","Poznan, Poland",Checked In,Men's XL,Associate Data Scientist,male,0.99
+Individual Ticket,"December 12, 2019 10:29 AM","Warsaw, Poland",Checked In,Women's Medium,Deep Learning Engineer,female,0.98
+Early Bird - Corporate Ticket,"December 12, 2019 10:30 AM","Poznan, Poland",Checked In,Men's Large,Associate Research Engineer,male,1
+Individual Ticket,"December 12, 2019 10:30 AM","Zielona Góra, Poland",Checked In,Men's Large,Big Data Consultant,male,0
+Individual Ticket,"December 12, 2019 10:30 AM","Warsaw, Poland",Checked In,Men's Large,Data Plumber,male,0.98
+Individual Ticket,"December 12, 2019 10:32 AM","Ostrowiec Świętokrzyski, Poland",Checked In,Men's Medium,NLP Engineer,male,1
+Individual Ticket,"December 12, 2019 10:43 AM","Warsaw, Poland",Checked In,Men's Large,Research Engineer,male,1
+Corporate Ticket,"December 12, 2019 10:44 AM","Warsaw, Poland",Checked In,,Senior Data Scientist,female,0.98
+Corporate Ticket,"December 12, 2019 10:44 AM","Warsaw, Poland",Checked In,Men's Large,data scientist,male,1
+Individual Ticket,"December 12, 2019 10:47 AM","Poznan, Poland",Checked In,Men's Small,Research Engineer,male,0
+Corporate Ticket,"December 12, 2019 10:48 AM","Warsaw, Poland",Checked In,Women's Small,Analytical Researcher,female,0.98
+Corporate Ticket,"December 12, 2019 10:49 AM","Frankfurt am Main, Germany",Checked In,Men's XL,Data Scientist,male,0.99
+Individual Ticket,"December 12, 2019 10:50 AM","Warsaw, Poland",Checked In,Men's Large,Student,male,0.99
+Individual Ticket,"December 12, 2019 10:51 AM","Poznan, Poland",Checked In,Men's XL,Data Scientist,male,0.99
+Final Call - Corporate,"December 12, 2019 10:53 AM","Poznan, Poland",Checked In,,Junior Data Scientist,male,0
+Individual Ticket,"December 12, 2019 10:54 AM","Moscow, Russia",Checked In,Men's Medium,Big Data Analyst,male,1
+Corporate Ticket,"December 12, 2019 10:59 AM","Warsaw, Poland",Checked In,Men's Large,R&D Manager,male,1
+Individual Ticket,"December 12, 2019 11:02 AM","Warsaw, Poland",Checked In,Men's Medium,Project Leader/Senior Software Engineer,male,1
+Final Call - Corporate,"December 12, 2019 11:15 AM","Poznan, Poland",Checked In,,Research Engineer,male,1
+Individual Ticket,"December 12, 2019 11:16 AM","Warsaw, Poland",Checked In,Men's Medium,Freelancer,male,0.99
+Corporate Ticket,"December 12, 2019 11:19 AM","Warsaw, Poland",Checked In,Men's Medium,Data Scientist,male,1
+Individual Ticket,"December 12, 2019 11:24 AM","London, United Kingdom",Checked In,Men's Medium,Organiser,male,0.98
+Final Call - Corporate,"December 12, 2019 11:23 AM","London, United Kingdom",Checked In,Men's XL,Software Developer,male,0.99
+Individual Ticket,"December 12, 2019 11:33 AM","Ustrzyki Dolne, Poland",Checked In,Men's Medium,Freelancer,male,1
+Individual Ticket,"December 12, 2019 11:34 AM",United Kingdom,Checked In,,Chief Data Scientist,male,0.98
+Individual Ticket,"December 12, 2019 11:35 AM","Warsaw, Poland",Checked In,Women's Large,Organizer,female,0.98
+Individual Ticket,"December 12, 2019 11:35 AM","Warsaw, Poland",Checked In,Men's Large,Community Lead,male,0
+Individual Ticket,"December 12, 2019 11:35 AM","Warsaw, Poland",Checked In,Men's XL,Lead machine learning engineer,male,0.99
+Individual Ticket,"December 12, 2019 11:35 AM","Krakow, Poland",Checked In,Men's Large,Machine Learning Tech Lead,male,1
+Individual Ticket,"December 12, 2019 11:36 AM","Warsaw, Poland",Checked In,Men's XL,Consultant,male,0.86
+Individual Ticket,"December 12, 2019 11:34 AM","Warsaw, Poland",Checked In,Men's Large,Data Engineer,male,1
+Corporate Ticket,"December 12, 2019 11:42 AM","Warsaw, Poland",Checked In,Women's Medium,Section Head,male,0
+Individual Ticket,"December 12, 2019 11:45 AM","Warsaw, Poland",Checked In,,data scientist,female,0.98
+Final Call - Corporate,"December 12, 2019 11:51 AM","Poznan, Poland",Checked In,,Analityk,female,0.98
+Corporate Ticket,"December 12, 2019 12:05 PM","Katowice, Poland",Checked In,Men's Large,Data Scientist,male,1
+Early Bird - Individual Ticket,"December 12, 2019 12:08 PM","Ksiazenice, Poland",Checked In,Men's XL,Machine Learning Engineer,male,1
+Early Bird - Individual Ticket,"December 12, 2019 12:09 PM","Ksiazenice, Poland",Checked In,Men's Medium,Machine Learning Engineer,male,0
+Early Bird - Individual Ticket,"December 12, 2019 12:10 PM","Gliwice, Poland",Checked In,Men's Large,Machine Learning Engineer,male,0
+Early Bird - Individual Ticket,"December 12, 2019 12:10 PM","Gliwice, Poland",Checked In,Men's Small,ML Engineer,male,0
+Individual Ticket,"December 12, 2019 12:11 PM","Warsaw, Poland",Checked In,Men's Medium,Programmer,male,0.98
+Early Bird - Individual Ticket,"December 12, 2019 12:17 PM","Gliwice, Poland",Checked In,Men's Medium,Software Engineer,male,1
+Corporate Ticket,"December 12, 2019 12:20 PM","Poznan, Poland",Checked In,Women's Medium,Junior Data Scientis,female,0
+Corporate Ticket,"December 12, 2019 12:21 PM","Poznan, Poland",Checked In,Men's XL,Senior Software Engineer,male,1
+Corporate Ticket,"December 12, 2019 12:22 PM","Warsaw, Poland",Checked In,Men's XL,Inżynier oporgramowania,male,1
+Individual Ticket,"December 12, 2019 12:29 PM","Fontenay-sous-Bois, France",Checked In,Men's XL,Freelance Data Scientist,male,0.98
+Final Call - Individual Ticket,"December 12, 2019 12:32 PM","Peipohja, Finland",Checked In,Men's Medium,Senior Data Scientist,male,0.99
+Individual Ticket,"December 12, 2019 12:38 PM","Warsaw, Poland",Checked In,,TRIGIAT,male,0.99
+Individual Ticket,"December 12, 2019 1:31 PM","Warsaw, Poland",Checked In,Men's XL,Software developer,male,0
+ING tickets,"December 12, 2019 1:34 PM","Katowice, Poland",Checked In,Women's Medium,Junior Specialist for Risk Modelling,female,0.98
+Early Bird - Individual Ticket,"December 12, 2019 3:35 PM","Grodzisko Dolne, Poland",Checked In,Men's Small,Owner,male,1
+Early Bird - Corporate Ticket,"December 12, 2019 4:06 PM","Warsaw, Poland",Checked In,Men's Medium,Software Developer,male,1
+Corporate Ticket,"December 13, 2019 9:47 AM","Warsaw, Poland",Checked In,Women's Small,Analysis,female,0.98
+Corporate Ticket,"December 13, 2019 9:40 AM","Warsaw, Poland",Checked In,Men's Medium,Senior specialist,male,0.99
+Individual Ticket,"December 13, 2019 11:37 AM","Konstancin-Jeziorna, Poland",Checked In,Men's XL,CTO,male,0.99
+Media,"December 13, 2019 11:40 AM","Warsaw, Poland",Checked In,Men's Medium,Redaktor,male,1
+Individual Ticket,"December 13, 2019 12:30 PM",Poland,Checked In,Men's Large,Junior Product Analyst,male,0.97
+"Individual Tutorial Ticket - 14.12, Saturday","December 14, 2019 9:36 AM",United Kingdom,Checked In,Men's XL,developer,male,0.99
+"Individual Tutorial Ticket - 14.12, Saturday","December 14, 2019 9:39 AM","Warsaw, Poland",Checked In,Men's Large,Data Scientist,male,0
+"Individual Tutorial Ticket - 14.12, Saturday","December 14, 2019 9:48 AM","Warsaw, Poland",Checked In,Men's Medium,Senior Data Scientist,male,1
+"Corporate Tutorial Ticket - 14.12, Saturday","December 14, 2019 9:55 AM","Munich, Germany",Checked In,Men's Medium,Software Engineer,male,0.9
+"Corporate Tutorial Ticket - 14.12, Saturday","December 14, 2019 9:57 AM","Warsaw, Poland",Checked In,Women's Small,Data Scientist,female,0.97
+"Corporate Tutorial Ticket - Track 2, 14.12, Saturday","December 14, 2019 10:48 AM","Poznan, Poland",Checked In,Men's Large,Associate Data Scientist,male,1
